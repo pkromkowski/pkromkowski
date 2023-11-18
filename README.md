@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,10 +9,6 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pkromkowski&style=flat-square&color=blue" alt=""/ >
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -73,3 +69,7 @@ I am passionate about uncovering hidden insights within data, translating them i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkromkowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="200"/>
+</div>
