@@ -7,26 +7,23 @@
 ---
 ### About Me :
 
-### Hi there! I'm Peter Kromkowski, a Data Science professional with a passion for numbers, patterns, and unraveling insights from complex data sets. 📊
+### Hi there! I'm Peter Kromkowski, a Data Science professional with a passion for numbers, patterns, and unraveling insights from complex data sets.
+I am passionate about uncovering hidden insights within data, translating them into actionable strategies, and ultimately making a tangible impact. Whether it's identifying trends in market behavior or optimizing risk models, I'm dedicated to creating robust solutions that drive value.
 
-### 🧠 Expertise:
+### Expertise:
 - **Data Science:** Leveraging machine learning, predictive modeling, and data visualization to extract actionable insights.
 - **Statistics:** Applying statistical methodologies to derive meaningful conclusions and make data-driven decisions.
 - **Mathematics:** Solving intricate problems and optimizing solutions using mathematical principles.
 
-### 💼 Industry Focus:
+### Industry Focus:
 My primary domain of expertise lies in **Finance**, where I've honed my skills to interpret financial data, develop risk models, and optimize investment strategies. I thrive on the challenge of merging quantitative analysis with financial markets' intricacies to drive informed decision-making.
 
-### 🛠️ Tools & Technologies:
+### Tools & Technologies:
 - **Languages:** Python, R, SQL
 - **Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Tableau
 - **Other Skills:** Data cleaning, feature engineering, time series analysis
-
-### 🌟 What Drives Me:
-I am passionate about uncovering hidden insights within data, translating them into actionable strategies, and ultimately making a tangible impact. Whether it's identifying trends in market behavior or optimizing risk models, I'm dedicated to creating robust solutions that drive value.
-
-## 👨‍💻 Languages and Tools
+## Languages and Tools
 
 ### Programming Languages:
 <p align="left">
