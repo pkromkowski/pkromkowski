@@ -50,15 +50,6 @@ My primary domain of expertise lies in **Finance**, where I've honed my skills t
   <img src="https://img.shields.io/badge/Time_Series_Analysis-9B59B6?style=for-the-badge" alt="Time Series Analysis">
 </p>
 ---
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pkromkowski)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkromkowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="200"/>
