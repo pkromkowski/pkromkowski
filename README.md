@@ -16,11 +16,7 @@ I am passionate about uncovering hidden insights within data, translating them i
 ### Industry Focus:
 My primary domain of expertise lies in **Finance**, where I've honed my skills to interpret financial data, develop risk models, and optimize investment strategies. I thrive on the challenge of merging quantitative analysis with financial markets' intricacies to drive informed decision-making.
 
-### Tools & Technologies:
-- **Languages:** Python, R, SQL
-- **Frameworks:** TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn, Tableau
-- **Other Skills:** Data cleaning, feature engineering, time series analysis
+
 ## Languages and Tools
 
 ### Programming Languages:
