@@ -49,7 +49,7 @@ My primary domain of expertise lies in **Finance**, where I've honed my skills t
   <img src="https://img.shields.io/badge/Feature_Engineering-2ECC71?style=for-the-badge" alt="Feature Engineering">
   <img src="https://img.shields.io/badge/Time_Series_Analysis-9B59B6?style=for-the-badge" alt="Time Series Analysis">
 </p>
----
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="200"/>
