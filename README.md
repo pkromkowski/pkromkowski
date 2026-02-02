@@ -5,8 +5,6 @@
 </div>
 
 ---
-### About Me :
-
 ### Hi there! I'm Peter Kromkowski, a Data Science professional with a passion for numbers, patterns, and unraveling insights from complex data sets.
 I am passionate about uncovering hidden insights within data, translating them into actionable strategies, and ultimately making a tangible impact. Whether it's identifying trends in market behavior or optimizing risk models, I'm dedicated to creating robust solutions that drive value.
 
